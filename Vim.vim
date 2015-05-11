@@ -1,3 +1,3 @@
-function! g:Hello_GitHub():
+function! g:Hello_GitHub()
     echom "Hello GitHub!"
 endfunction
